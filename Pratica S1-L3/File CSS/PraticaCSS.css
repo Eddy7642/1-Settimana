@@ -1,0 +1,18 @@
+body {
+    padding: 0 25vh;
+}
+#container {text-align: center;}
+
+header h3 {
+    background-color: rgb(247, 247, 229);
+    padding: 2%;
+    color: rgb(0, 128, 85);
+   
+}
+article {
+    text-align: center;
+}
+figcaption {
+    text-align: center;
+    color: rgb(190, 188, 188);
+}
